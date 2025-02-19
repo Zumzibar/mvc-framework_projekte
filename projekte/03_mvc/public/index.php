@@ -9,10 +9,22 @@ use mvc_third\Navi\NaviIndex;
 use mvc_third\Views\Home\ViewHome;
 
 require_once __DIR__ . '/config/config.php';
-HeadIndex::getHead();
+
+
+$init = new Init();
+HeadIndex::getHead($init);
 NaviIndex::getNavi();
-new Init();
+$init->setDisplay();
 FootIndex::getFoot();
+
+
+
+
+
+/*$init = new Init();
+$title = TEMPLATEINFOJSON[$init->getActiveController()]['title'];
+echo PRE;
+print_r(TEMPLATEINFOJSON[$init->getActiveController()]['title']);*/
 
 /*echo PRE;
 print_r($_GET);
