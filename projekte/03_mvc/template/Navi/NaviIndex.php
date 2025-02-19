@@ -2,9 +2,13 @@
 namespace mvc_third\Navi;
 
 class NaviIndex{
-    static public function getNavi():void
+    static public function getNavi(object $init):void
     {
-        require_once __DIR__ . '/index.tpl.html';
+
+        $activeSite = lcfirst($init->getActiveController());
+        //$activeSite = TEMPLATEINFOJSON[$init->getActiveController()]['controllerName'];
+
+        require_once __DIR__ . '/index.tpl.php';
     }
 
 }

@@ -13,7 +13,7 @@ require_once __DIR__ . '/config/config.php';
 
 $init = new Init();
 HeadIndex::getHead($init);
-NaviIndex::getNavi();
+NaviIndex::getNavi($init);
 $init->setDisplay();
 FootIndex::getFoot();
 
