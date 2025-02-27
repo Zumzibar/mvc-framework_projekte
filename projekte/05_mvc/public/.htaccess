@@ -1,0 +1,17 @@
+# BEGIN WordPress
+# Die Anweisungen (Zeilen) zwischen "BEGIN WordPress" und "END WordPress" sind
+# dynamisch generiert und sollten nur über WordPress-Filter verändert werden.
+# Jegliche Änderungen an den Anweisungen zwischen diesen Markierungen werden überschrieben.
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+#RewriteRule ^(.*) index.php
+RewriteRule ^([^/]+)(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?([^/]+)?(?:/)?.*$ index.php?param1=$3&param2=$4&param3=$5
+</IfModule>
+
+# END WordPress

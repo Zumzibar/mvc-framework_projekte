@@ -1,25 +1,21 @@
 <?php
 
 namespace mvc_fourth\Controller\Anfahrt;
+use mvc_fourth\AbstractClass\Library\AController;
 use mvc_fourth\Views\Anfahrt\ViewAnfahrt;
 
 
 
-class Controller
+class Controller extends AController
 {
-    /**
-     * @return void
-     */
-    public function indexAction():void
-    {
-        $this->getView();
-    }
+
 
     /**
      * @return void
+     * example: ViewImpressum::getImpressum(); oder ViewUeberUns::getUeberUns();
      */
-    private function getView():void
+    protected function getView(): void
     {
-      ViewAnfahrt::getAnfahrt();
+        ViewAnfahrt::getAnfahrt();
     }
 }

@@ -3,25 +3,36 @@
 namespace mvc_fourth\Library;
 
 
-use mvc_fourth\Controller\Home\Controller; // Beispiel für einen Standard-Controller
+use AllowDynamicProperties;
+use mvc_fourth\AbstractClass\Library\AControllerFactory;
 
-class ControllerFactory
+
+class ControllerFactory extends AControllerFactory
 {
-    private string $controllerName;
-    private object $controllerObject;
 
-    public function __construct(private string $namenspace, private RequestHandler $requestHandler)
+
+    /**
+     * @param string $namenspace
+     * @param RequestHandler $requestHandler
+     */
+    public function __construct( public string $namenspace,  public RequestHandler $requestHandler)
     {
         $this->buildControllerWithNamespace();
         $this->loadController();
     }
 
-    private function buildControllerWithNamespace(): void
+    /**
+     * @return void
+     */
+    final function buildControllerWithNamespace(): void
     {
         $this->controllerName = "\\" . $this->namenspace . "\\Controller\\" . ucfirst($this->requestHandler->getControllerName()) . "\\Controller";
     }
 
-    private function loadController(): void
+    /**
+     * @return void
+     */
+    final function loadController(): void
     {
         $this->controllerObject = new $this->controllerName();
         // print_r($this->controllerObject);

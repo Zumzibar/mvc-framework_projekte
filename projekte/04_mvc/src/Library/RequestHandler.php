@@ -2,15 +2,10 @@
 
 namespace mvc_fourth\Library;
 
-class RequestHandler
-{
-    private string $ControllerName;
-    private string $ActionName;
-    /**
-     * @var array $uriParts
-     */
-    private array $uriParts = [];
+use mvc_fourth\AbstractClass\Library\ARequestHandler;
 
+class RequestHandler extends ARequestHandler
+{
     /**
      * @param array $serverVariablen
      */
@@ -22,34 +17,10 @@ class RequestHandler
     /**
      * @return array
      */
-    private function cutUriParts():array
+    protected function cutUriParts():array
     {
         $pattern = '/^\/([^\/]+)(\/([^\/]+))?/i';
         preg_match($pattern, $this->serverVariablen['REQUEST_URI'], $matches);
         return $matches;
-    }
-    /**
-     * @return void
-     */
-    private function checkIfUriPartsExists($parts): void
-    {
-        $this->ControllerName=$parts[1]??'home';
-        $this->ActionName=$parts[3]??'index';
-    }
-
-    /**
-     * @return string
-     */
-    public function getControllerName(): string
-    {
-        return $this->ControllerName;
-    }
-
-    /**
-     * @return string
-     */
-    public function getActionName(): string
-    {
-        return $this->ActionName;
     }
 }
