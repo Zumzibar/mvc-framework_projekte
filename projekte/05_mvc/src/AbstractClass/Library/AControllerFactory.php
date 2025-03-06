@@ -14,6 +14,7 @@ abstract class AControllerFactory implements IControllerFactory
      * @var object $controllerObject
      */
     protected object $controllerObject;
+    protected string $controllerPath;
     protected abstract function loadController(): void;
 
 
@@ -36,4 +37,7 @@ abstract class AControllerFactory implements IControllerFactory
      */
     abstract public function getController(): object;
 
+    abstract protected function buildControllerPath(): void;
+    abstract protected function checkIfControllerExists(): void;
+    abstract protected function checkIfActionExists(): void;
 }

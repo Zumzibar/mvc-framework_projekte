@@ -2,3 +2,15 @@
     background-color: #0a53be;
     color: white !important;
 }
+/* take 100% of available space */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Make the wrapper flex-grow to take up the available space - Foot always at the bottom of the window */
+.wrapper {
+    flex: 1;
+}

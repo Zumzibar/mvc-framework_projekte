@@ -1,0 +1,904 @@
+27.February 2025 -15:46:26#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:46:42#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:26#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:36#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:36#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:36#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:47:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:51#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:53#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:53#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:48:54#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:30#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:30#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:30#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:31#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:57#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:57#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+27.February 2025 -15:51:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:50:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:50:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:51:03#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:51:03#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:51:03#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:26#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:27#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:28#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:31#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -07:52:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:00:14#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:51#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:52#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:53#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:57#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:01:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:02:00#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:04:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:04:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:04:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:04:30#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:04:31#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:10#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:14#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:14#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:14#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:18#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:12:20#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:13:27#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:13:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:13:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:13:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:14:53#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:14:54#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:14:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:14:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:14:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(41): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:18:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:18:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:00#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:01#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:01#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:02#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:02#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:19:53#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:17#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:17#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:19#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:21#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:21#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:20:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:21:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:21:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:22:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:22:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:23:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:23:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:23:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:23:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:29:56#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:29:57#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:29:57#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:29:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:30:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:30:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:30:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:30:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:38:17#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:38:19#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:38:19#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:17#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:18#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:22#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:31#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:43:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:19#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:54#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:54#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:44:59#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:24#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:32#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:33#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:46#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:46#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:48#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:48#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:51#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:45:51#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:46:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:46:34#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:46:35#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:46:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:46:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:18#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:18#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:47:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(42): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:49:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:49:39#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:53:11#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:53:23#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:53:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:53:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:25#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:26#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:29#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:55:42#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:38#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:40#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:43#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:48#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:51#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:52#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:54#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:55#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:56:58#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:57:04#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:58:13#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:58:14#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:58:18#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:58:20#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -08:58:22#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -09:02:46#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -09:02:47#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -09:02:48#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -09:02:49#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}
+05.March 2025 -09:02:50#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(24): mvc_fifth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(43): mvc_fifth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(17): mvc_fifth\Init->setDisplay()
+#3 {main}

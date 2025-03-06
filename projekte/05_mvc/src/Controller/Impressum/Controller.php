@@ -9,12 +9,12 @@ use mvc_fifth\Views\Impressum\ViewImpressum;
 class Controller extends AController
 {
 
-
     /**
      * @return void
+     * example: ViewImpressum::getImpressum(); oder ViewUeberUns::getUeberUns();
      */
-    final function getView():void
+    protected function getView(): void
     {
-      ViewImpressum::getImpressum();
+        ViewImpressum::getImpressum();
     }
 }

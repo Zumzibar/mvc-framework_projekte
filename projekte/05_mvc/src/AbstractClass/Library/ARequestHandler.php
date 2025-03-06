@@ -24,10 +24,8 @@ abstract class ARequestHandler implements IRequestHandler
     /**
      * @return string
      */
-    public function getActionName(): string
-    {
-        return $this->ActionName;
-    }
+    public abstract function getActionName(): string;
+
 
     protected function checkIfUriPartsExists($parts): void
     {

@@ -23,4 +23,13 @@ class RequestHandler extends ARequestHandler
         preg_match($pattern, $this->serverVariablen['REQUEST_URI'], $matches);
         return $matches;
     }
+
+    /**
+     * @return string
+     */
+    public function getActionName(): string
+    {
+            return $this->ActionName;
+
+    }
 }

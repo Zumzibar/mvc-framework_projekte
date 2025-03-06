@@ -1,0 +1,23 @@
+{
+    "name": "06_mvc/first",
+    "description": "Mein 1. gulp/sass",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "mvc_sixth\\": [
+                "src\/",
+                "template\/"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "John Enke",
+            "email": "muster@muster.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "datatables/datatables": "^1.10"
+    }
+}

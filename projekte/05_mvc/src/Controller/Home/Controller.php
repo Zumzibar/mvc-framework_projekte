@@ -12,8 +12,9 @@ class Controller extends AController
 
     /**
      * @return void
+     * example: ViewImpressum::getImpressum(); oder ViewUeberUns::getUeberUns();
      */
-    final function getView():void
+    protected function getView(): void
     {
         ViewHome::getHome();
     }
