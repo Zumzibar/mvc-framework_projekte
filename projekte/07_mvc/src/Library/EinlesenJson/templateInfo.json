@@ -1,0 +1,32 @@
+{
+  "home": {
+    "title": "Sie befinden sich auf meiner Seite",
+    "href": "\/",
+    "button": "Home",
+    "controllerName": "home"
+  },
+  "schleifen": {
+    "title": "Smarty Schleifen",
+    "href": "\/schleifen",
+    "button": "Schleifen",
+    "controllerName": "schleifen"
+  },
+  "object": {
+    "title": "Smarty Object",
+    "href": "\/object",
+    "button": "Object",
+    "controllerName": "object"
+  },
+  "session": {
+    "title": "Const & Session!!",
+    "href": "\/session",
+    "button": "Const & Session",
+    "controllerName": "session"
+  },
+  "if": {
+    "title": "If",
+    "href": "\/if",
+    "button": "If & Else",
+    "controllerName": "if"
+  }
+ }

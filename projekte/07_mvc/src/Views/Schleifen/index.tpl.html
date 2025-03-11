@@ -1,0 +1,17 @@
+<h1>Schleifen</h1>
+<div class="row">
+    <div class="col-6">
+        <p>{$smarty.server.REQUEST_URI}</p>
+        <ul>
+            {foreach from=$people item=person}
+            <li>
+                Name: {$person.name}<br>
+                Email: {$person.email}<br>
+                Age: {$person.age}<br>
+                Country: {$person.country}
+            </li>
+            {/foreach}
+        </ul>
+
+    </div>
+</div>

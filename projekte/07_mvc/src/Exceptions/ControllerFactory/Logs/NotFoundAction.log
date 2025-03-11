@@ -1,0 +1,5 @@
+27.02.25 15:41#0 /vagrant/projekte/05_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfActionExists()
+#1 /vagrant/projekte/05_mvc/src/Init.php(37): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/05_mvc/public/index.php(15): mvc_seventh\Init->setDisplay()
+#3 {main}
+dg Action not found im Controller impressum
