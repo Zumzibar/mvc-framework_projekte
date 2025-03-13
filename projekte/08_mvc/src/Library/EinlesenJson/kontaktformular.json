@@ -1,0 +1,31 @@
+{
+
+  "person": {
+    "name": "Name",
+    "vorname": "Vorname",
+    "strasse" : "Strasse",
+    "hausnr": "HausNr",
+    "plz": "PLZ",
+    "ort": "Ort",
+    "email": "Email",
+    "telefon":"Telefon",
+    "verein": "Verein",
+    "sportart": "Sportart"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

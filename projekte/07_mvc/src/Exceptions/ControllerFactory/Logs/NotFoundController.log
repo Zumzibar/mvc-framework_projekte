@@ -10968,3 +10968,78 @@ js- Controller not found
 #2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
 #3 {main}
 '%20.%20$item['href']%20.%20'- Controller not found
+11.03.25 09:09#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 09:09#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 10:09#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 10:12#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 10:43#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 10:43#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+constsession- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+ifelse- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+test- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+images- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+constsession- Controller not found
+11.03.25 12:19#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+constsession- Controller not found
+13.03.25 09:21#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+meldung- Controller not found
+13.03.25 09:23#0 /vagrant/projekte/07_mvc/src/Library/ControllerFactory.php(41): mvc_seventh\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/07_mvc/src/Init.php(38): mvc_seventh\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/07_mvc/public/index.php(17): mvc_seventh\Init->setDisplay()
+#3 {main}
+meldung- Controller not found
