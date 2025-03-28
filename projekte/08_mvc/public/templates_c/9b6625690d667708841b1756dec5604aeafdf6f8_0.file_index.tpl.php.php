@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 5.4.3, created on 2025-03-13 14:36:02
-  from 'file:/vagrant/projekte/08_mvc/template/Navi/index.tpl.php' */
+  from 'file:/vagrant/projekte/08_mvc/template/Navi/index.tpl.html' */
 
 /* @var \Smarty\Template $_smarty_tpl */
 if ($_smarty_tpl->getCompiled()->isFresh($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->getCompiled()->isFresh($_smarty_tpl, array (
   array (
     '9b6625690d667708841b1756dec5604aeafdf6f8' => 
     array (
-      0 => '/vagrant/projekte/08_mvc/template/Navi/index.tpl.php',
+      0 => '/vagrant/projekte/08_mvc/template/Navi/index.tpl.html',
       1 => 1741872962,
       2 => 'file',
     ),

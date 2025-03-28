@@ -1,0 +1,75 @@
+<div class="container">
+    <div class="card mt-3">
+        <div class="card-body">
+            <div class="row">
+                <div class="offset-1 col-10">
+                    <form class="kontaktformular">
+                        <fieldset>
+                            <legend>Kontaktformular</legend>
+
+                            {foreach from=$Field key=key item=item}
+                            {if $key == "anrede"}
+                            <div class="form-check form-check-inline mt-3">
+                                <input class="form-check-input" type="radio" name="anrede" id="Herr" value="Herr" checked>
+                                <label class="form-check-label" for="Herr">Herr</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="anrede" id="Frau" value="Frau">
+                                <label class="form-check-label" for="Frau">Frau</label>
+                            </div>
+                            {elseif $key == "verein" || $key == "laender"}
+                            <div class="input-group mb-3">
+                                <label class="input-group-text" for="{$key|capitalize}">{$key|capitalize}</label>
+                                <select class="form-select" name="{$key}" id="{$key|capitalize}">
+                                    <option value=''>---Bitte auswählen---</option>
+                                    {foreach from=$ExtraArrays[$key] key=optKey item=optValue}
+                                    <option value="{$optKey}">{$optValue}</option>
+                                    {/foreach}
+                                </select>
+                            </div>
+                            {elseif $key == "feedback"}
+                            <div class="form-group mt-3">
+                                <label for="Feedback">Feedback</label>
+                                <textarea class="form-control" id="Feedback" name="feedback" rows="3"></textarea>
+                            </div>
+                            {elseif $key == "sportart"}
+                            <div class="col-14">
+                                <label class="input-group-text" for="{$key|capitalize}">{$key|capitalize}</label>
+                            </div>
+
+
+
+
+
+                            {foreach from=$ExtraArrays.sportart key=optKey item=optValue}
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" name="sportart[]" id="{$optKey}" value="{$optKey}">
+                                <label class="form-check-label" for="{$optKey}">{$optValue}</label>
+                            </div>
+                            {/foreach}
+
+
+
+
+
+
+
+                            {elseif $key == "pusp"}
+
+                            {else}
+                            <div class="input-group mb-3 mt-3">
+                                <label class="input-group-text" for="{$key|capitalize}">{$key|capitalize}</label>
+                                <input type="text" class="form-control" id="{$item|capitalize}" name="{$key}" placeholder="{$key|capitalize}" value="">
+                            </div>
+                            {/if}
+                            {/foreach}
+
+                            <button type="submit" class="btn btn-primary mt-3" formaction="" formmethod="post" name="senden">Submit</button>
+                            <button type="submit" class="btn btn-primary mt-3" formaction="" name="auslesen" formmethod="post">Login</button>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

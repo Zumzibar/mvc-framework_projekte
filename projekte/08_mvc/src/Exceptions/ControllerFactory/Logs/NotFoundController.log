@@ -11133,3 +11133,33 @@ test- Controller not found
 #2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
 #3 {main}
 test- Controller not found
+13.03.25 15:36#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+mvc- Controller not found
+13.03.25 15:37#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+mvc- Controller not found
+13.03.25 15:51#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+submit- Controller not found
+27.03.25 09:18#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+submit- Controller not found
+27.03.25 09:19#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+submit- Controller not found
+27.03.25 14:26#0 /vagrant/projekte/08_mvc/src/Library/ControllerFactory.php(41): mvc_eighth\Library\ControllerFactory->checkIfControllerExists()
+#1 /vagrant/projekte/08_mvc/src/Init.php(38): mvc_eighth\Library\ControllerFactory->__construct()
+#2 /vagrant/projekte/08_mvc/public/index.php(17): mvc_eighth\Init->setDisplay()
+#3 {main}
+Models- Controller not found

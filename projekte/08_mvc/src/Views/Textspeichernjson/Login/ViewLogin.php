@@ -1,15 +1,15 @@
 <?php
 
-namespace mvc_eighth\Views\Textspeichernjson;
+namespace mvc_eighth\Views\Textspeichernjson\Login;
 
 use Smarty\Smarty;
 
-class ViewTextspeichernjson
+class ViewLogin
 {
     /**
      * @return void
      */
-    static function getTextspeichernjson(): void
+    static function getLogin(): void
     {
         $_SESSION['smarty']->display(__DIR__ . '/index.tpl.html');
     }
