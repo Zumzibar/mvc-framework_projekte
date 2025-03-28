@@ -2,28 +2,46 @@
 
 namespace mvc_eighth\Models\Textspeichernjson;
 
+use mvc_eighth\Library\AnzeigeTool;
+
 class PostZuSession
 {
-
+    public array $postDataArray = array();
     function __construct($postData){
-        if (!empty($postData)) {
-            $this->saveSession();
-        } else {
-            echo 'Das Absenden der Daten war nicht erfolgreich.';
+
+
+        $this->saveSession();
+
+    }
+
+    /**
+     * @return void
+     * POST Daten in extra Array speichern
+     */
+    public function saveSession()
+    {
+        if (!empty($_POST)) {
+            foreach ($_POST as $key => $value) {
+
+                $postDataArray[$key] =  $value;
+            }
+        }
+        AnzeigeTool::printr($postDataArray);
+    }
+
+
+    protected function AnzeigeInput()
+    {
+
+        if(!empty($postDataArray)){
+            AnzeigeTool::printr($postDataArray);
+            file_put_contents(DOCUMENTROOT .'TestJSON' , json_encode($postDataArray, JSON_PRETTY_PRINT));
         }
     }
 
 
-    public function saveSession()
-    {
-        foreach ($_POST as $key => $value) {
-            if ($key !== 'senden' && $key !== 'speichern') {
 
-                $_SESSION['formular_daten'][$key] = htmlspecialchars(ucfirst($value));
-            }
-
-
-        }
+    public function convertSession(){
 
     }
     public function killPostSession(){
